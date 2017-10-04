@@ -1,2 +1,6 @@
-# js
-primul proiect js
+# JavaScript
+primua aplicatie js
+
+## Manual de utilizare
+
+## Cerinte hardam
